@@ -1,4 +1,4 @@
-# European Retail Group Customer Cohort Analysis Dashboard
+# European Retail Group Customer Cohort Analysis 
 
 This Power BI dashboard provides a comprehensive analysis of customer behavior and business performance for a European retail group. It focuses on revenue, customer acquisition, retention, and churn through cohort analysis, enabling data-driven insights for better decision-making.
 
